@@ -1,0 +1,24 @@
+# Java / Spring Boot
+target/
+*.class
+*.log
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+coverage/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+application-local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
